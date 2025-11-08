@@ -5,3 +5,4 @@ matplotlib
 langchain
 langchain-google-genai
 langgraph
+reportlab
