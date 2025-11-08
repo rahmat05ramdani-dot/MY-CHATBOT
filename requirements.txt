@@ -1,7 +1,7 @@
 streamlit
-google-generativeai>=0.7.2
+google-generativeai
 python-dotenv
 matplotlib
-langchain>=0.1.0
-langchain-google-genai>=2.1.0
-langgraph>=0.0.30
+langchain
+langchain-google-genai
+langgraph
