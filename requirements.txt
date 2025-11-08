@@ -7,3 +7,4 @@ langchain-google-genai
 langgraph
 reportlab
 python-docx
+PyPDF2
