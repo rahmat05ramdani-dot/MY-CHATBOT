@@ -6,3 +6,4 @@ langchain
 langchain-google-genai
 langgraph
 reportlab
+python-docx
