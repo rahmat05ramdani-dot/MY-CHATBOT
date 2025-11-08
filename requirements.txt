@@ -1,4 +1,6 @@
 streamlit
+google-generativeai
+python-dotenv
 matplotlib
 google-genai>=1.0.0
 langchain-google-genai>=2.1.0
